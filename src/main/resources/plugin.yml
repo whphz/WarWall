@@ -1,0 +1,6 @@
+name: Warwall
+version: '${project.version}'
+main: com.whp.warwall.Warwall
+api-version: 1.17
+Authors:
+  - whp
